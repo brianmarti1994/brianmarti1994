@@ -29,10 +29,7 @@ I enjoy building practical products, experimenting with AI, and learning new thi
 - 💼 Building useful things and learning every day  
 - 🧠 Curious about AI, automation, and problem-solving  
 - 🚀 Enjoy turning concepts into working products  
-- 📫 Reach me at: **brian.p.marti@gmail.com**  
-
 ---
-
 ### 🚀 Some Tools I Use
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,blazor,js,ts,sqlite,git" />
