@@ -32,7 +32,13 @@ I enjoy building practical products, experimenting with AI, and learning new thi
 ---
 ### 🚀 Some Tools I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,blazor,js,ts,sqlite,git" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,js,ts,sqlite,git,angular" />
+<!-- Custom Icons -->
+    <img src="https://www.sencha.com/wp-content/uploads/2020/12/ExtJS_logo_svg.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" width="48"/>
+  <img src="https://hexmos.com/freedevtools/svg_icons/entityframeworkcore/entityframeworkcore-original.svg" width="48"/>
+  <img src="https://www.svgrepo.com/show/306500/openai.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlegemini.svg" width="48"/>
 </p>
 
 </td>
