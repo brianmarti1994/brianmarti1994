@@ -3,7 +3,8 @@
 Turning coffee into ideas and ideas into projects ☕💡
 
 - 💼 Building useful things and learning every day
-- 🧠 Curious about AI, automation, and problem-solving
+- 🧠 Curious about AI, automation, and problem-solving  <img width="300" height="225" alt="image" src="https://github.com/user-attachments/assets/a59e12a7-2253-4129-a1ac-13f731686da6" />
+
 - 🚀 Enjoy turning concepts into working products
 
 ---
