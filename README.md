@@ -9,7 +9,7 @@ Turning coffee into ideas and ideas into projects ☕💡
 ---
 
 ### 🌍 Find Me Online
-- 💼 LinkedIn: https://linkedin.com/in/your-link
+- 💼 LinkedIn: https://www.linkedin.com/in/brian-martin-751199132/
 - 📧 Email: brian.p.marti@gmail.com
 
 ---
