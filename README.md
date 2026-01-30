@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Brian</h1>
-<p align="center">Senior .NET Developer | Cloud | AI Curious 🚀</p>
+<p align="center">Senior Developer | Cloud | AI Curious 🚀</p>
 Turning coffee into ideas and ideas into projects ☕💡
 
 I enjoy building practical products, experimenting with AI, and learning new things along the way.
