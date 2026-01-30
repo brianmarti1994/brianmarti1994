@@ -39,8 +39,8 @@ I enjoy building practical products, experimenting with AI, and learning new thi
   <img src="https://hexmos.com/freedevtools/svg_icons/entityframeworkcore/entityframeworkcore-original.svg" width="48"/>
   <img src="https://www.svgrepo.com/show/306500/openai.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlegemini.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/ollama.png" width="48"/>
 </p>
-
 </td>
 
 <td width="45%" valign="top">
