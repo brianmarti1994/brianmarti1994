@@ -1,5 +1,5 @@
-## 👋 Hey, I'm Brian
-
+<h1 align="center">👋 Hey, I'm Brian</h1>
+<p align="center">Senior .NET Developer | Cloud | AI Curious 🚀</p>
 Turning coffee into ideas and ideas into projects ☕💡
 
 I enjoy building practical products, experimenting with AI, and learning new things along the way.
@@ -45,7 +45,7 @@ I enjoy building practical products, experimenting with AI, and learning new thi
 
 <td width="45%" valign="top">
 
-<img src="https://i.imgur.com/hNGvhn6.gif" width="100%" />
+<img src="https://media.tenor.com/6ZhzHHYyNxoAAAAM/luffy.gif" width="100%" />
 
 </td>
 </tr>
